@@ -1,4 +1,5 @@
 # Navigation Task
+
 ## Create a Javascript project with two files:
 
 - main.js
@@ -12,5 +13,6 @@
 ## The ***main.js*** should call the functions in the utils:
 
 - Fetch the data from the API and store it in a variable called **rawData**
-- Process the rawData by passing it in the build navigation data structure and storing the return value in a variable called **finalNavigationList**
+- Process the rawData by passing it in the build navigation data structure and storing the return value in a variable
+  called **finalNavigationList**
 
